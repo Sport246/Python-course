@@ -1,0 +1,8 @@
+one = (3, "nice", 94.6, True)
+print(one)
+two = (3, 72, 23, 10)
+print(two)
+three = (4, 83, 16, 22) +(9, )
+print(three)
+print(len(two))
+print(three[2 : 5])
